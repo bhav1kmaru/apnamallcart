@@ -1,19 +1,22 @@
 {
+
+
+
   "experience": [
     {
       "id": 1,
-      "role": "SDE-3 at Masai School",
+      "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
       "year": "October 2021 - Present"
     },
     {
       "id": 2,
-      "role": "Senior Software Engineer at Swiggy",
+      "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
       "year": "October 2021 - Present"
     },
     {
       "id": 3,
-      "role": "Senior Software Engineer at Swiggy",
+      "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
       "year": "October 2021 - Present"
     }
-  ]
+  ]  
 }
