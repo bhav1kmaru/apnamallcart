@@ -12,5 +12,5 @@
     { "id": 7, "name": "Goa" },
     { "id": 8, "name": "Gujrat" }
   ],
-  "auth":[]
+  "userlist":[]
 }
